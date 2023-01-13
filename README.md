@@ -21,3 +21,9 @@ just Download the MongoDb Compass and PostMan from the browser.
 
 # url to be used in postman
 
+* To created question:http://localhost:8000/questions/create 
+* To create the options of a particular questions: http://localhost:8000/questions/:id/options/create 
+* o add a vote for a Particular Option: http://localhost:8000/options/:id/add_vote
+http://localhost:8000/questions/:id (To get the details about the particular question)
+http://localhost:8000/questions/62ff5f8d8989690a30403f31/delete (To delete a Particular Question)
+http://localhost:8000/options/62ff61c492d525ac764ec787/delete (To delete a particular option)
