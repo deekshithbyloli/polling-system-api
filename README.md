@@ -11,3 +11,12 @@
 
 4)For using This project , You need the postMan and Mongodb Compass getting the documents saved in you database.
 just Download the MongoDb Compass and PostMan from the browser.
+
+
+# How to use postman
+
+* Open PostMan
+* Enter The Url into the postMan with the required Method and data to pass with the request
+* Then just Note The Change in your database.
+
+
