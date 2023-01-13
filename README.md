@@ -25,5 +25,5 @@ just Download the MongoDb Compass and PostMan from the browser.
 * To create the options of a particular questions: http://localhost:8000/questions/:id/options/create 
 * o add a vote for a Particular Option: http://localhost:8000/options/:id/add_vote
 * To get the details about the particular question: http://localhost:8000/questions/:id 
-* To delete a Particular Question: http://localhost:8000/questions/62ff5f8d8989690a30403f31/delete 
-* To delete a particular option: http://localhost:8000/options/62ff61c492d525ac764ec787/delete 
+* To delete a Particular Question: http://localhost:8000/questions/62ff5f8d8989690a30403f31/delete note:A question can’t be deleted if one of it’s options has votes
+* To delete a particular option: http://localhost:8000/options/62ff61c492d525ac764ec787/delete  note: An option can’t be deleted if it has even one vote given to it
