@@ -1,7 +1,7 @@
 # polling-system-api
 
 
-#how to use this in local system
+# how to use this in local system
 
 1)First install mongodb community server on your device by going into the mongodb websites and then download mongodb community server
 
